@@ -24,10 +24,12 @@ Link Drive           : https://drive.google.com/drive/u/1/folders/1GzIkPq1dgmN8k
 
 </span>
 <!-- Deskripsi Singkat -->
-### Penjelasan Singkat
+## Penjelasan Singkat
+
 Monitoring kontrol buckboost
 
-### Prequerities
+## Prequerities
+
 Sebelum menggunakan program di dalam repository, pastikan memiliki beberapa persyaratan berikut :
 - Arduino IDE v1.8.1 atau lebih tinggi. Link : https://www.arduino.cc/en/software
 - Blynk CLoud. Link : https://blynk.cloud akun terlampir. 
