@@ -15,3 +15,8 @@ https://drive.google.com/file/d/1LNzPRvzry67QwJrh67e5Pd6egQJ2czLJ/view?usp=shari
 
 Setelah di download, ekstrak/replace pada folder arduino yang terletak didalam C:\Users\Username\Documents\Arduino
 ```
+### Referensi
+Referensi pengerjaan source.ino
+```
+https://www.youtube.com/watch?v=hZAX2d8qrbs&t=285s
+```
